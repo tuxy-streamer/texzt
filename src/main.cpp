@@ -15,6 +15,7 @@ int main(int argc, char *argv[]) {
   if (window == NULL) {
     cout << "Failed to create window." << endl;
     glfwTerminate();
+	return -1;
   }
 
   glfwMakeContextCurrent(window);
