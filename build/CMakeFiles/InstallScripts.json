@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/storage/projects/repos/texzt/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

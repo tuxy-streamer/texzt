@@ -1,0 +1,1 @@
+/usr/sbin/c++ -Wl,--dependency-file=CMakeFiles/texzt.dir/link.d CMakeFiles/texzt.dir/main.cpp.o -o texzt  -lglfw -lGLEW -lGL -lX11 -lGLU -lOpenGL

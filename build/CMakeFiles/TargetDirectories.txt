@@ -1,0 +1,3 @@
+/storage/projects/repos/texzt/build/CMakeFiles/texzt.dir
+/storage/projects/repos/texzt/build/CMakeFiles/edit_cache.dir
+/storage/projects/repos/texzt/build/CMakeFiles/rebuild_cache.dir
